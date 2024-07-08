@@ -1,0 +1,66 @@
+A. String manipulation
+
+1. Reverse String
+2. Calculate the number of vowels and consonants in strings.
+3. Print the first non-repeated character in a string.
+4. Check if string is palindrome.
+5. Determine if string is anagram.
+
+B. Arrays
+
+1. Find duplicates in array.
+2. Find the largest and smallest number in array.
+3. Remove the duplicates from an array in place.
+4. Find all pairs in an array that add up to a specific sum.
+ 
+C. Binary tree
+
+1. Binary search tree
+2. Traverse a given binary tree in preorder without recursion
+3. Count the leaf nodes in a binary tree
+4. Find the maximum depth of a binary tree
+
+D. Linked List
+
+1. Reverse Linked list
+2. Reverse singly linked list without recursion
+3. How Do You Determine Whether There Is a Loop in a Singly Linked List?
+4. How Do You Add an Element to the Middle of a Linked List?
+5. 
+
+E. Other 
+
+1. How Is a Bubble Sort Algorithm Implemented?
+2. Write a Program To Find the Prime Factors of an Integer.
+3. Check if the Following Number Is an Armstrong Number.
+4. Write a Program To Print the First N Fibonacci Numbers.
+5. How Do You Implement a Bucket Sort Algorithm?
+
+F. What is a.../What do you think...
+
+1. Array
+2. Stack
+3. Matrix
+4. Tree
+5. Heap
+6. Queue
+7. Graph
+8. Linked List
+9. Hash Table
+10. Binary Search Tree
+11. Recursion
+12. Sorting Algorithm
+13. Searching Algorithm
+14. Hashing Algorithm
+15. Greedy Algorithm
+16. “Big O” Notation
+17. OOP Is a Good Coding Method
+18. What Are Leaf Nodes and Why Are They Important in a Binary Tree?
+19. What Is the Difference Between a Programming Language and a Script?
+20. Difference Between a Class and an Object
+21. Difference Between an Interpreter and a Compiler
+22. Difference Between an Array and a Linked List
+23. Difference Between a Stack and a Queue
+24. Difference Between a Breadth-First and a Depth-First Search
+25. Difference Between Searching and Sorting
+26. Difference Between a Static and a Dynamic Programming Language
