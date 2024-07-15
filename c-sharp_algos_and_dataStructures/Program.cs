@@ -1,1 +1,0 @@
-Pokemon squirtle = new Pokemon();
