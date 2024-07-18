@@ -89,7 +89,6 @@ for(int i = 2; i < length; i++)
 // Reduce the length.
 length--;
 
-
 // ==================================================================
 
 // Print the arraay.
