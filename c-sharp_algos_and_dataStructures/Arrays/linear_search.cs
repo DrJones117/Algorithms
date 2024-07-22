@@ -18,4 +18,4 @@ bool LinearSearch(int[] array, int key)
     return false;
 }
 
-Console.WriteLine(LinearSearch(array, 0));
+Console.WriteLine(LinearSearch(array, 10));
