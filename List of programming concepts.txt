@@ -26,7 +26,6 @@ D. Linked List
 2. Reverse singly linked list without recursion
 3. How Do You Determine Whether There Is a Loop in a Singly Linked List?
 4. How Do You Add an Element to the Middle of a Linked List?
-5. 
 
 E. Other 
 

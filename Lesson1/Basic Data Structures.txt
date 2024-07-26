@@ -1,0 +1,8 @@
+So what is a Data Structure? 
+
+Put simply, a Data Structure is a named location where we cacn store data.
+
+An array is a data structure.
+A Tree is a data structure.
+A linked list is a data structure.
+etc etc 

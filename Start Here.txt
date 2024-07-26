@@ -1,0 +1,10 @@
+Here are the concepts we will cover in this course...
+
+1. Basic Data Structures
+2. Big O Notation
+3. String manipulation
+4. Searching Algorithms
+5. Sorting Algorithms
+6. Graphs
+7. Trees 
+8. Linked Lists
