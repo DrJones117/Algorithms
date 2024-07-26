@@ -8,3 +8,5 @@ Here are the concepts we will cover in this course...
 6. Graphs
 7. Trees 
 8. Linked Lists
+
+The reasons to learn Data Structures and Algorithms are that you will have to solve an algorithm in a technical coding interview and you will learn how to be an efficient.

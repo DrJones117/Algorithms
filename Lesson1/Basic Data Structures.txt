@@ -6,3 +6,5 @@ An array is a data structure.
 A Tree is a data structure.
 A linked list is a data structure.
 etc etc 
+
+
